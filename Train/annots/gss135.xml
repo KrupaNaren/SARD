@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>sard_labelImg</folder>
+	<filename>gss135.jpg</filename>
+	<path>/home/gss/labelImg/sard_labelImg/gss135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>548</ymin>
+			<xmax>643</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>
