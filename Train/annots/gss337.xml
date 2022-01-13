@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>sard_labelImg</folder>
+	<filename>gss337.jpg</filename>
+	<path>/home/gss/labelImg/sard_labelImg/gss337.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_defined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>391</ymin>
+			<xmax>781</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>
